@@ -1,2 +1,2 @@
 # IOT
-trabalho de OIT - Carrinho Bluetooth com Arduino e Android
+trabalho de IOT - Carrinho Bluetooth com Arduino e Android
