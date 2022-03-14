@@ -1,0 +1,1 @@
+https://quarkus-iot-api.herokuapp.com/q/swagger-ui/
